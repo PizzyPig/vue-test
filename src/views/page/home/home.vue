@@ -2,6 +2,7 @@
     <section>
         <i-button size="large"></i-button>
         <i-button disabled></i-button>
+        11111
     </section>
 </template>
 <script>
